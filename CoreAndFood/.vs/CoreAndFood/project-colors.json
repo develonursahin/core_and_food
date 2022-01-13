@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30a0a043-3e2f-47b7-861e-0a0cdf0dd029": {
+      "ProjectGuid": "30a0a043-3e2f-47b7-861e-0a0cdf0dd029",
+      "DisplayName": "CoreAndFood",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

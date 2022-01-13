@@ -1,0 +1,958 @@
+﻿++Çözüm 'CoreAndFood' ‎(1 / 1 proje)
+i:{00000000-0000-0000-0000-000000000000}:CoreAndFood.sln
+++CoreAndFood
+i:{00000000-0000-0000-0000-000000000000}:CoreAndFood
+++Bağımlılıklar
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1430
+++Connected Services 
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1431
+++Properties
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\properties\
+++wwwroot
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\
+++css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\css\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\css\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\css\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\css\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\css\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\css\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animsition\css\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\
+++js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\js\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\js\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animsition\js\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\js\
+++lib
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\
+++Login_v6
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\
+++resimler
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\resimler\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\resimler\
+++5e89d665-020b-4a73-8737-a4dd64e2bcbf.jpg
+++6696cc7f-b636-4a47-8798-06e0cb683656.jpg
+++web
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\
+++web2
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\
+++favicon.ico
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\favicon.ico
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\images\icons\favicon.ico
+++Controllers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\controllers\
+++CategoryController.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\controllers\categorycontroller.cs
+++ChartController.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\controllers\chartcontroller.cs
+++DefaultController.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\controllers\defaultcontroller.cs
+++FoodController.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\controllers\foodcontroller.cs
+++LoginController.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\controllers\logincontroller.cs
+++Data
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\
+++Models
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\models\
+++Admin.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\models\admin.cs
+++Category.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\models\category.cs
+++Context.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\models\context.cs
+++Food.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\models\food.cs
+++urunekle.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\models\urunekle.cs
+++Class1.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\class1.cs
+++Class2.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\data\class2.cs
+++Migrations
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\migrations\
+++Pages
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\
+++Shared
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\shared\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\shared\
+++_Layout.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\shared\_layout.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\_viewstart.cshtml
+++Error.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\error.cshtml
+++Index.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\index.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\category\index.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\chart\index.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\index.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\food\index.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\login\index.cshtml
+++Privacy.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\privacy.cshtml
+++Repositories
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\repositories\
+++ViewComponents
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\viewcomponents\
+++Views
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\
+++Category
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\category\
+++CategoryAdd.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\category\categoryadd.cshtml
+++CategoryGet.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\category\categoryget.cshtml
+++Chart
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\chart\
+++Index2.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\chart\index2.cshtml
+++Index3.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\chart\index3.cshtml
+++Statistics.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\chart\statistics.cshtml
+++Default
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\
+++Components
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\components\
+++CategoryGetList
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\components\categorygetlist\
+++Default.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\components\categorygetlist\default.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\components\foodgetlist\default.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\components\foodlistbycategory\default.cshtml
+++FoodGetList
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\components\foodgetlist\
+++FoodListByCategory
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\components\foodlistbycategory\
+++CategoryDetails.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\default\categorydetails.cshtml
+++Food
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\food\
+++AddFood.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\food\addfood.cshtml
+++FoodGet.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\food\foodget.cshtml
+++Login
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\login\
+++_SiteLayout.cshtml
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\views\shared\_sitelayout.cshtml
+++appsettings.json
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\appsettings.json
+++Program.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\program.cs
+++Startup.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\startup.cs
+++Çerçeveler
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:çerçeveler
+++Çözümleyiciler
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:çözümleyiciler
+++Paketler
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:paketler
+++Hizmet bağımlılığı bulunamadı
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1432
+++launchSettings.json
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\properties\launchsettings.json
+++site.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\css\site.css
+++site.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\js\site.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\site.js
+++bootstrap
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\
+++jquery
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\jquery\
+++jquery-validation
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation-unobtrusive\
+++fonts
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\fonts\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\fonts\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\fonts\
+++images
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\images\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\
+++vendor
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\
+++index.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\index.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\index.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\index.html
+++about.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\about.html
+++bread.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\bread.html
+++checkout.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\checkout.html
+++drinks.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\drinks.html
+++events.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\events.html
+++faqs.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\faqs.html
+++frozen.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\frozen.html
+++household.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\household.html
+++kitchen.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\kitchen.html
+++login.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\login.html
+++mail.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\mail.html
+++payment.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\payment.html
+++pet.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\pet.html
+++privacy.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\privacy.html
+++products.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\products.html
+++services.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\services.html
+++short-codes.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\short-codes.html
+++single.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\single.html
+++vegetables.html
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\vegetables.html
+++w3layouts-License.txt
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\w3layouts-license.txt
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\w3layouts-license.txt
+++.gitattributes
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\.gitattributes
+++Yeni Metin Belgesi.txt
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\yeni metin belgesi.txt
+++20211216083517_deneme.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\migrations\20211216083517_deneme.cs
+++20211216143552_CreateStatusColumnInCategoriesTable.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\migrations\20211216143552_createstatuscolumnincategoriestable.cs
+++20211217123407_mig1.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\migrations\20211217123407_mig1.cs
+++ContextModelSnapshot.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\migrations\contextmodelsnapshot.cs
+++Error.cshtml.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\pages\privacy.cshtml.cs
+++CategoryRepository.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\repositories\categoryrepository.cs
+++FoodRepository.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\repositories\foodrepository.cs
+++GenericRepository.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\repositories\genericrepository.cs
+++CategoryGetList.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\viewcomponents\categorygetlist.cs
+++FoodGetList.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\viewcomponents\foodgetlist.cs
+++FoodListByCategory.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\viewcomponents\foodlistbycategory.cs
+++appsettings.Development.json
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\appsettings.development.json
+++Microsoft.AspNetCore.App
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\microsoft.netcore.app
+++Microsoft.AspNetCore.Analyzers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.Authentication.Cookies (2.2.0)
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1446
+++Microsoft.EntityFrameworkCore (5.0.0)
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1443
+++Microsoft.EntityFrameworkCore.Design (5.0.0)
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1445
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.0)
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1444
+++Microsoft.EntityFrameworkCore.Tools (5.0.0)
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1447
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1448
+++X.PagedList.Mvc.Core (8.1.0)
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:>1449
+++dist
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery\dist\
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery\license.txt
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++main.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\css\main.css
+++util.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\css\util.css
+++font-awesome-4.7.0
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\
+++iconic
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\
+++poppins
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\
+++icons
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\images\icons\
+++avatar-01.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\images\avatar-01.jpg
+++Login.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\images\login.png
+++main.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\js\main.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\main.js
+++animate
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animate\
+++animsition
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animsition\
+++countdowntime
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\countdowntime\
+++css-hamburgers
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\css-hamburgers\
+++daterangepicker
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\daterangepicker\
+++perfect-scrollbar
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\perfect-scrollbar\
+++select2
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\select2\
+++bootstrap.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\css\bootstrap.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\css\bootstrap.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap.css
+++creditly.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\css\creditly.css
+++easy-responsive-tabs.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\css\easy-responsive-tabs.css
+++flexslider.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\css\flexslider.css
+++font-awesome.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\css\font-awesome.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\css\font-awesome.css
+++style.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\css\style.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\css\style.css
+++FontAwesome.otf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\fonts\fontawesome.otf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\fonts\fontawesome.otf
+++fontawesome-webfont.eot
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\fonts\fontawesome-webfont.eot
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+++fontawesome-webfont.svg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\fonts\fontawesome-webfont.svg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+++fontawesome-webfont.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\fonts\fontawesome-webfont.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\fonts\fontawesome-webfont.woff
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+++glyphicons-halflings-regular.woff
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\fonts\glyphicons-halflings-regular.woff2
+++1.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\1.jpg
+++1.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\1.png
+++10.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\10.jpg
+++10.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\10.png
+++11.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\11.jpg
+++11.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\11.png
+++12.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\12.jpg
+++12.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\12.png
+++13.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\13.jpg
+++13.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\13.png
+++14.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\14.jpg
+++14.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\14.png
+++15.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\15.jpg
+++15.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\15.png
+++16.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\16.jpg
+++16.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\16.png
+++17.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\17.jpg
+++17.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\17.png
+++18.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\18.jpg
+++18.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\18.png
+++19.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\19.jpg
+++19.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\19.png
+++2.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\2.jpg
+++2.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\2.png
+++20.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\20.jpg
+++20.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\20.png
+++21.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\21.jpg
+++21.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\21.png
+++22.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\22.jpg
+++22.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\22.png
+++23.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\23.jpg
+++23.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\23.png
+++24.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\24.jpg
+++24.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\24.png
+++25.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\25.jpg
+++25.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\25.png
+++26.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\26.jpg
+++26.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\26.png
+++27.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\27.jpg
+++27.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\27.png
+++28.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\28.jpg
+++28.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\28.png
+++29.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\29.jpg
+++29.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\29.png
+++3.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\3.jpg
+++3.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\3.png
+++30.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\30.jpg
+++30.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\30.png
+++31.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\31.jpg
+++31.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\31.png
+++32.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\32.jpg
+++32.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\32.png
+++33.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\33.jpg
+++33.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\33.png
+++34.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\34.jpg
+++34.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\34.png
+++35.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\35.jpg
+++35.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\35.png
+++36.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\36.png
+++37.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\37.png
+++38.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\38.png
+++39.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\39.png
+++4.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\4.jpg
+++4.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\4.png
+++40.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\40.png
+++41.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\41.png
+++42.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\42.png
+++43.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\43.png
+++44.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\44.png
+++45.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\45.png
+++46.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\46.png
+++47.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\47.png
+++48.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\48.png
+++49.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\49.png
+++5.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\5.jpg
+++5.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\5.png
+++50.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\50.png
+++51.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\51.png
+++52.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\52.png
+++53.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\53.png
+++54.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\54.png
+++55.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\55.png
+++56.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\56.png
+++57.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\57.png
+++58.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\58.png
+++59.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\59.png
+++6.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\6.jpg
+++6.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\6.png
+++60.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\60.png
+++61.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\61.png
+++62.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\62.png
+++63.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\63.png
+++64.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\64.png
+++65.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\65.png
+++66.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\66.png
+++67.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\67.png
+++68.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\68.png
+++69.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\69.png
+++7.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\7.jpg
+++7.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\7.png
+++70.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\70.png
+++71.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\71.png
+++72.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\72.png
+++73.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\73.png
+++74.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\74.png
+++75.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\75.png
+++76.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\76.png
+++8.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\8.jpg
+++8.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\8.png
+++9.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\9.jpg
+++9.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\9.png
+++arrow.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\arrow.png
+++card.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\card.png
+++cart.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\cart.png
+++close_1.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\close_1.png
+++img-sp.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\img-sp.png
+++offer.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\offer.png
+++paypal.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\paypal.png
+++star.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\star.png
+++star1.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\star1.png
+++tag.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\images\tag.png
+++bootstrap.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\bootstrap.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\js\bootstrap.min.js
+++counterup.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\counterup.min.js
+++creditly.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\creditly.js
+++easing.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\easing.js
+++easyResponsiveTabs.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\easyresponsivetabs.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\easyresponsivetabs.js
+++jquery.flexslider.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\jquery.flexslider.js
+++jquery.wmuSlider.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\jquery.wmuslider.js
+++jquery-1.11.1.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\jquery-1.11.1.min.js
+++minicart.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\minicart.js
+++move-top.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\move-top.js
+++okzoom.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\okzoom.js
+++waypoints.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web\js\waypoints.min.js
+++clndr.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\css\clndr.css
+++jqvmap.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\css\jqvmap.css
+++nav.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\css\nav.css
+++ar2.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\ar2.png
+++arrows.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\arrows.png
+++avatar.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\avatar.jpg
+++avatar1.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\avatar1.jpg
+++avatar2.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\avatar2.jpg
+++img-sprite.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\img-sprite.png
+++into.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\into.png
+++into1.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\into1.png
+++logo.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\logo.png
+++pp.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\pp.jpg
+++pp0.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\pp0.jpg
+++pp01.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\pp01.jpg
+++settings.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\settings.png
+++tick-mark.png
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\images\tick-mark.png
+++Chart1.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\chart1.js
+++clndr.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\clndr.js
+++jquery.easydropdown.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\jquery.easydropdown.js
+++jquery.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\jquery.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.nicescroll.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\jquery.nicescroll.js
+++jquery.vmap.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\jquery.vmap.js
+++moment-2.2.1.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\moment-2.2.1.js
+++underscore-min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\underscore-min.js
+++book1.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\resimler\book1.jpg
+++book2.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\resimler\book2.jpg
+++book3.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\resimler\book3.jpg
+++book4.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\resimler\book4.jpg
+++book5.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\resimler\book5.jpg
+++img1.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\resimler\img1.jpg
+++20211216083517_deneme.Designer.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\migrations\20211216083517_deneme.designer.cs
+++20211216143552_CreateStatusColumnInCategoriesTable.Designer.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\migrations\20211216143552_createstatuscolumnincategoriestable.designer.cs
+++20211217123407_mig1.Designer.cs
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\migrations\20211217123407_mig1.designer.cs
+++jquery.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\
+++scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\
+++HELP-US-OUT.txt
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\help-us-out.txt
+++Poppins-Black.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-black.ttf
+++Poppins-BlackItalic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-blackitalic.ttf
+++Poppins-Bold.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-bold.ttf
+++Poppins-BoldItalic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-bolditalic.ttf
+++Poppins-ExtraBold.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-extrabold.ttf
+++Poppins-ExtraBoldItalic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-extrabolditalic.ttf
+++Poppins-ExtraLight.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-extralight.ttf
+++Poppins-ExtraLightItalic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-extralightitalic.ttf
+++Poppins-Italic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-italic.ttf
+++Poppins-Light.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-light.ttf
+++Poppins-LightItalic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-lightitalic.ttf
+++Poppins-Medium.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-medium.ttf
+++Poppins-MediumItalic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-mediumitalic.ttf
+++Poppins-Regular.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-regular.ttf
+++Poppins-SemiBold.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-semibold.ttf
+++Poppins-SemiBoldItalic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-semibolditalic.ttf
+++Poppins-Thin.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-thin.ttf
+++Poppins-ThinItalic.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\poppins\poppins-thinitalic.ttf
+++animate.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animate\animate.css
+++countdowntime.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\countdowntime\countdowntime.js
+++hamburgers.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\css-hamburgers\hamburgers.css
+++daterangepicker.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\daterangepicker\daterangepicker.css
+++daterangepicker.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\daterangepicker\daterangepicker.js
+++moment.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\daterangepicker\moment.js
+++jquery-3.2.1.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\jquery\jquery-3.2.1.min.js
+++perfect-scrollbar.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\perfect-scrollbar\perfect-scrollbar.css
+++perfect-scrollbar.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\perfect-scrollbar\perfect-scrollbar.min.js
+++select2.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\select2\select2.css
+++select2.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\select2\select2.js
+++jquery.vmap.sampledata.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\jquery.vmap.sampledata.js
+++jquery.vmap.world.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\web2\js\jquery.vmap.world.js
+++bootstrap-grid.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap-reboot.css
+++bootstrap.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\js\bootstrap.js
+++additional-methods.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++fontawesome-webfont.woff2
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+++animated.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\animated.less
+++bordered-pulled.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\bordered-pulled.less
+++core.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\core.less
+++fixed-width.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\fixed-width.less
+++font-awesome.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\font-awesome.less
+++icons.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\icons.less
+++larger.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\larger.less
+++list.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\list.less
+++mixins.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\mixins.less
+++path.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\path.less
+++rotated-flipped.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\rotated-flipped.less
+++screen-reader.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\screen-reader.less
+++stacked.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\stacked.less
+++variables.less
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\less\variables.less
+++_animated.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_animated.scss
+++_bordered-pulled.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss
+++_core.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_core.scss
+++_fixed-width.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_fixed-width.scss
+++_icons.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_icons.scss
+++_larger.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_larger.scss
+++_list.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_list.scss
+++_mixins.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_mixins.scss
+++_path.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_path.scss
+++_rotated-flipped.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss
+++_screen-reader.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_screen-reader.scss
+++_stacked.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_stacked.scss
+++_variables.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\_variables.scss
+++font-awesome.scss
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\scss\font-awesome.scss
+++material-design-iconic-font.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\css\material-design-iconic-font.css
+++Material-Design-Iconic-Font.eot
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\fonts\material-design-iconic-font.eot
+++Material-Design-Iconic-Font.svg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\fonts\material-design-iconic-font.svg
+++Material-Design-Iconic-Font.ttf
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\fonts\material-design-iconic-font.ttf
+++Material-Design-Iconic-Font.woff
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\fonts\material-design-iconic-font.woff
+++Material-Design-Iconic-Font.woff2
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\fonts\material-design-iconic-font.woff2
+++animsition.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animsition\css\animsition.css
+++animsition.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animsition\js\animsition.js
+++popper.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\js\popper.js
+++tooltip.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\js\tooltip.js
+++hamburgers.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\css-hamburgers\hamburgers.min.css
+++moment.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\daterangepicker\moment.min.js
+++select2.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\select2\select2.min.css
+++select2.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\select2\select2.min.js
+++bootstrap.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap.css.map
+++bootstrap.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++jquery.min.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\jquery\dist\jquery.min.map
+++font-awesome.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+++material-design-iconic-font.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\fonts\iconic\css\material-design-iconic-font.min.css
+++animsition.min.css
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animsition\css\animsition.min.css
+++animsition.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\animsition\js\animsition.min.js
+++popper.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\js\popper.min.js
+++bootstrap.min.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\login_v6\vendor\bootstrap\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++2b72fa86-c885-46c6-a4ee-e3dfc9f642f3.jpg
+++432799d9-33f7-4fe1-bfda-0ee4fd1af126.jpg
+++cbece3bd-b65e-44eb-9b35-0faff7fa8ea5.jpg
+++fe3cbc1b-f93e-4023-9a37-07b7fcb5afa9.jpg
+++acabdba3-7603-4b6e-b3e5-afc8b772473a.jpg
+++5e7265e1-cab2-4c0e-a730-954c916d2bd3.jpg
+++ad211755-6770-4f09-9108-6de7cd4ff244.jpg
+++a35da3d5-f352-4999-9de3-7cb881cc1995.jpg
+++df0067b5-b5cc-4b5f-a7d7-ab2550d4feab.jpg
+i:{30a0a043-3e2f-47b7-861e-0a0cdf0dd029}:c:\users\onur sahin\source\repos\coreandfood\coreandfood\wwwroot\resimler\df0067b5-b5cc-4b5f-a7d7-ab2550d4feab.jpg
